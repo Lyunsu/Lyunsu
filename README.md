@@ -1,3 +1,6 @@
+LIST:VISUALIZATION OF INTEGEAL(S)
+    :BLACKHOLE
+
 - 👋 Hi, I’m @Lyunsu
 - 👀 I’m interested in ANN
 - 🌱 I’m currently learning Cnn
